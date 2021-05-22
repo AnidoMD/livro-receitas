@@ -5,3 +5,4 @@ oLÁ. lista de receitas :wave:
 blabla
 
 - strogonoff de frango
+- pavê
